@@ -6,4 +6,4 @@
 ![Иллюстрация к проекту](https://media.geeksforgeeks.org/wp-content/uploads/20221204085700/gfg1.gif)
 # Внешний вид игры "Тетрис"
 Написано при помощи языков: JavaScript, CSS, HTML
-![Иллюстрация к проекту]([https://github.com/Keksichek/Game-Development/assets/166395757/e4942b69-9a92-48fc-9f1a-fdedf4a242da](https://user-images.githubusercontent.com/55413271/71127325-cdf60780-21e2-11ea-808a-e1100b5647c2.png))
+![Иллюстрация к проекту](https://user-images.githubusercontent.com/55413271/71127325-cdf60780-21e2-11ea-808a-e1100b5647c2.png)
